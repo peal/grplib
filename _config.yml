@@ -22,14 +22,15 @@ title: GrpLib
 description: GrpLib is a library containing problems, algorithms and datasets of groups relating to computational group theory.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ruthhoffmann, 
-github_username:  ruthhoffmann, 
-
 # Build settings
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
+# Something to consider to be enabled when more problems are in existence
+search_enabled: false
+
+footer_content: "Copyright &copy; 2020 Ruth Hoffmann &amp; Chris Jefferson. Distributed by an XYZ license."
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
