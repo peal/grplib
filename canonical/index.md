@@ -1,0 +1,32 @@
+---
+layout: default
+title: Canonical Images
+nav_exclude: true
+---
+
+# {{page.title}}
+Something something canonical images are slow
+
+{% cite MR3906181 --file canonical %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget ex porttitor velit bibendum varius. Integer porttitor non turpis quis auctor. Aliquam eget urna nec nulla consequat consequat a vel orci. Nulla quis lorem laoreet, pellentesque enim porttitor, mollis justo. Nulla congue velit vitae diam molestie finibus. Duis elementum, dolor feugiat mattis tristique, leo lacus congue erat, vel bibendum nulla massa ac erat. Duis vel eros nulla. Vivamus at leo a nulla finibus dictum vel eu libero.
+
+Aliquam nec mollis lacus. Sed tristique nec mi id convallis. Nullam varius elit id mi interdum, vel tincidunt est tristique. Phasellus viverra, mauris vel maximus gravida, erat nunc congue enim, vel rutrum nisi orci at elit. Phasellus sagittis dui sed nisi rutrum, eu mollis dui accumsan. Nullam vitae tellus egestas purus rutrum tristique nec in dolor. Sed condimentum iaculis turpis facilisis vehicula. Ut sed elit lobortis, venenatis ipsum nec, laoreet nibh. Morbi luctus vehicula venenatis. Nulla hendrerit pretium varius.
+
+Praesent hendrerit volutpat leo eget eleifend. Suspendisse eu lacinia orci. Vestibulum eleifend sem velit, eu auctor urna fermentum in. Aenean nec elit et erat auctor aliquam commodo et magna. Nunc commodo, nibh aliquam feugiat consectetur, justo nibh efficitur augue, id posuere leo ante et eros. In placerat nisl sed quam feugiat tristique. Donec lobortis mauris non nisl commodo, ac mollis dolor semper. Pellentesque bibendum ante tellus, at pulvinar urna ornare eu. Sed blandit magna at augue rutrum mollis.
+
+Cras nec erat ipsum. Quisque aliquet, arcu ut dictum viverra, tortor libero pellentesque dui, id hendrerit urna est sit amet justo. Proin malesuada varius lacus. Donec non fringilla mauris. Nullam scelerisque ligula et purus suscipit, in congue velit imperdiet. Ut dignissim ipsum ut odio laoreet ultricies. In ut dapibus elit. Nunc bibendum orci at dui porta, vitae iaculis quam mollis. Curabitur consequat est eget arcu bibendum malesuada. Pellentesque eget dui sit amet nisl facilisis imperdiet. Donec eget bibendum dui. Aliquam non elit elit. Duis vitae luctus ligula. Phasellus porttitor blandit fringilla.
+
+Proin non gravida ante. Nulla volutpat tortor ac elit pulvinar, id viverra turpis vulputate. Suspendisse imperdiet rhoncus malesuada. Etiam posuere libero id lacus aliquam, ut tempor nisl viverra. Morbi sit amet sem malesuada orci tincidunt tincidunt non ac lacus. Donec porttitor, lectus ac dictum pellentesque, erat tortor auctor dolor, ac tempor mi tortor at nunc. Duis nec felis non massa sollicitudin consectetur. Aliquam a quam eget dui maximus commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque sagittis ornare dolor, in consequat mauris pulvinar ac. Ut dapibus quam quis libero congue bibendum vitae quis odio. Phasellus sagittis vitae turpis vitae rutrum. Proin vel ante eget risus sodales ullamcorper. Morbi in gravida massa.
+
+Sed sed aliquam est. Maecenas rutrum sed neque quis accumsan. Vivamus dapibus posuere pulvinar. Aliquam id metus nec magna iaculis scelerisque. Nunc sed lacus ac libero tristique eleifend eget a arcu. Nunc porta vehicula urna ut fringilla. Nunc a felis fringilla, dapibus quam at, interdum turpis. Proin augue est, tristique eu iaculis vitae, venenatis finibus nisi. Praesent eu euismod purus. Praesent fringilla arcu et ipsum pharetra faucibus.
+
+Donec condimentum dolor quis scelerisque gravida. In ultricies turpis ipsum, in dictum nibh maximus a. Praesent eget urna augue. Aenean bibendum iaculis pharetra. Nunc mollis ante urna, a condimentum erat iaculis a. In a odio risus. Mauris porttitor lorem ac finibus tempor. Phasellus iaculis arcu in sem vehicula elementum. Donec non risus sit amet libero placerat tristique. Curabitur pellentesque turpis ipsum, vitae sollicitudin felis viverra et. Maecenas iaculis, magna euismod convallis interdum, nisi augue mollis tellus, sed vehicula nisl tellus ac nisi. Sed posuere suscipit urna, id tincidunt eros suscipit eu. Nulla lacinia risus rhoncus lectus semper suscipit. Praesent eget ante molestie turpis laoreet tincidunt non et lorem. Maecenas imperdiet nisi massa, eu tempor arcu pretium ut.
+
+Etiam in luctus nisi. Aliquam augue mauris, posuere congue ipsum et, efficitur dignissim ante. Suspendisse pellentesque lectus non urna viverra volutpat posuere vel quam. Quisque convallis luctus libero, venenatis dapibus enim accumsan at. Aenean luctus metus velit, at tempus dui ornare vitae. Nam vel nibh quis purus mollis auctor at in magna. Morbi lacus elit, tincidunt eu maximus nec, dapibus sed ligula. Mauris rhoncus ipsum vitae ligula vulputate, id cursus diam feugiat. Fusce velit sapien, blandit eu velit a, tempus mollis nunc. Pellentesque viverra diam in tempor tristique.
+
+Ut a porttitor enim, a volutpat nulla. Curabitur hendrerit mauris consectetur euismod auctor. Fusce sollicitudin quam at finibus iaculis. In finibus arcu tellus, sed lobortis sem luctus nec. Fusce quis tempor nisl, sed suscipit nisl. Mauris quis nisi in libero suscipit consequat. Fusce nibh magna, sollicitudin vitae faucibus ac, mattis nec diam. Sed facilisis accumsan tellus, vel molestie lorem mollis at. Nulla felis orci, iaculis at orci id, pellentesque volutpat erat. Nam at est mi. Fusce nec ultrices nibh. Nam finibus tincidunt tellus ut lacinia.
+
+Nam elementum mollis velit at mattis. Phasellus vel odio lacus. Ut tempus blandit quam, ac eleifend ante convallis id. Cras varius tortor nec augue imperdiet ultrices. Vestibulum ac viverra purus, vel pellentesque quam. Sed rhoncus placerat massa. Morbi et cursus lacus, ultricies viverra arcu. Integer eget tortor et velit molestie fermentum quis vitae orci. Aliquam semper, tortor sed ullamcorper lacinia, metus dui blandit urna, id auctor risus neque ac quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nulla sed mi volutpat mattis. Sed finibus malesuada felis, quis volutpat erat. Duis vestibulum sed lectus non efficitur. Cras et purus a arcu porttitor pharetra non et nunc.
+## References
+{% bibliography --file canonical.bib %}
