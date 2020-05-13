@@ -3,8 +3,8 @@ layout: default
 title: Problems
 nav_order: 2
 ---
-List of problems;
+# List of problems
 
 [Normalizer](./normalizer/)
 
-[Canonisation](./canonisation/)
+[Canonical Images](./canonical/)
