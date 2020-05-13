@@ -33,6 +33,7 @@ search_enabled: false
 footer_content: "Copyright &copy; 2020 Ruth Hoffmann &amp; Chris Jefferson. Distributed by an XYZ license."
 
 scholar:
+  source: problems/_bibliography
   bibliography: source/*.bib{,tex}
   sort_by: author, year
 
