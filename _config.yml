@@ -35,6 +35,9 @@ footer_content: "Copyright &copy; 2020 Ruth Hoffmann &amp; Chris Jefferson. Dist
 scholar:
   bibliography: source/*.bib{,tex}
   sort_by: author, year
+
+markdown: kramdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 # {{page.title}}
-Normalizer computations N_{S_n}(G) for a primitive (and probably also
+Normalizer computations $$N_{S_n}(G)$$ for a primitive (and probably also
 quasiprimitive) group G are slow in GAP. The primitive groups library
 contains many primitive groups and in the long run I plan to extend the
 library by some currently underrepresented cases. I'm not sure though
