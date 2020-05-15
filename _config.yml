@@ -32,7 +32,7 @@ plugins:
 # Something to consider to be enabled when more problems are in existence
 search_enabled: false
 
-footer_content: "Copyright &copy; 2020 Ruth Hoffmann &amp; Chris Jefferson. Distributed by an XYZ license."
+footer_content: footer.html
 
 scholar:
   source: problems/_bibliography
