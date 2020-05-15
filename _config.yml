@@ -20,12 +20,15 @@
 
 title: GrpLib
 description: GrpLib is a library containing problems, algorithms and datasets of groups relating to computational group theory.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rh347.host.cs.st-andrews.ac.uk
+baseurl: /grplib
 # Build settings
-theme: "just-the-docs"
+# theme: "just-the-docs"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+permalinks: pretty
 
 # Something to consider to be enabled when more problems are in existence
 search_enabled: false

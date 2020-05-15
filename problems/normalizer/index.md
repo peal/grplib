@@ -15,11 +15,12 @@ The GAP normalizer function is based on the algorithms as presented in {% cite M
 
 ## Groups
 
-[Symmetric group acting on the set of elements of $T$ of a finite, non-abelian simple group $T$](./groups/SimpleFiniteNonAbelian.g)
+[Finite, non-abelian simple groups](./groups/SimpleFiniteNonAbelian)
 
-[Primitive Groups](./groups/Primitive.g)
+[Primitive Groups](./groups/Primitive)
 
-[Quasi-Primitive Groups](./groups/QuasiPrimitive.)
+<!-- [Symmetric group acting on the set of elements of $T$ of a finite, non-abelian simple group $T$](./groups/SimpleFiniteNonAbelian.md) -->
+<!--[Quasi-Primitive Groups](./groups/QuasiPrimitive.md) -->
 
 
 ## References
