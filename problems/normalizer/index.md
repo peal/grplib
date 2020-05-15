@@ -15,7 +15,7 @@ The GAP normalizer function is based on the algorithms as presented in {% cite M
 
 ## Groups
 
-[Finite, non-abelian simple groups](./groups/SimpleFiniteNonAbelian)
+[Finite, non-abelian simple groups]({% link ./groups/SimpleFiniteNonAbelian.md %})
 
 [Primitive Groups](./groups/Primitive)
 

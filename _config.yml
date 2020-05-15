@@ -28,7 +28,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-permalinks: pretty
 
 # Something to consider to be enabled when more problems are in existence
 search_enabled: false
