@@ -2,13 +2,10 @@
 layout: default
 ---
 # Primitive Groups
-
+A GAP file containing the generating function is also [available](Primitive.g).
 ```
-    grplist:=[]; 
-    for i in [2..4095] do 
-        Add(grplist, AllPrimitiveGroups(NrMovedPoints,i));   
-    od;
-    grplist := Flat(grplist);
+PrimitiveGenerator := function()
+    return AllPrimitiveGroups(NrMovedPoints, [2..4095]);
+end;
 ```
 
-For the generating function download the [GAP file](Primitive.g) .

@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-# Simple Finite Non Abelian Groups
+# Simple Finite Non-Abelian Groups
+
+For the generating function download the [GAP file](SimpleFiniteNonAbelian.g) .
 
 ```
+SimpleFiniteNonAbelianGenerator := function()
+    local it, grplist, i;
     it:=SimpleGroupsIterator();
     grplist:=[];
     for i in it do
@@ -11,6 +15,6 @@ layout: default
             Add(grplist,i);
         fi;
     od;
+    return grplist;
+end;
 ```
-
-For the generating function download the [GAP file](SimpleFiniteNonAbelian.g) .
