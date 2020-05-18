@@ -18,7 +18,8 @@ nav_exclude: true
 # {{page.title}}
 
 ## Problem Definition
-In this section add the problem definition, any citations to the problem definition or textbooks, textbook algorithms.
+In this section add the problem definition, any citations to the problem definition 
+or textbooks, textbook algorithms.
 When citing use {% cite <CITE_ID> --file <example>%} .
 
 ## Algorithms
@@ -28,8 +29,13 @@ The format for that is
 [repository](URL TO CODE REPOSITORY HERE). <!-- This is optional -->
 
 ## Groups
-This section contains links to the code to generate the types of groups that either algorithms are tailored for or group types where the current state of the art is very slow and needs improving. 
-[TYPE OF GROUP HERE](./groups/<typeofgroup>.html) <!-- Note that we have to have the .html extension here at the moment, but you will need to create a Markdown .md file (this is an internal hosting thing that will be hopefully resolved soon) -->
+This section contains links to the code to generate the types of groups that either 
+algorithms are tailored for or group types where the current state of the art is very 
+slow and needs improving. 
+Note that we have to have the .html extension here at the moment, but you will 
+need to create a Markdown .md file (this is an internal hosting thing that will be 
+hopefully resolved soon).
+[TYPE OF GROUP HERE](./groups/<typeofgroup>.html) 
 
 ## References
 This section is only for the bibliography
@@ -40,7 +46,7 @@ This is the place to put all your sets of groups generating code into.
     1. For each type of groups in your list in `index.md` you will have to create a code file (in our case we take GAP) called `typeofgroup.g` and a corresponding Markdown file called `typeofgroup.md` in the `groups` folder.
     2. The code file, should contain just a function to generate the set of groups, and return that set.
     3. The markdown file should be of the following form
-```
+`````
 ---
 layout: default
 ---
@@ -49,7 +55,7 @@ A GAP file containing the generating function is also [available](<typeofgroup>.
 ```
 Copy and paste the function into here too as the link above will just link to a download of the code.
 ```
-```
+`````
 4. Create a bibliography. Create a bibtex file, the same you would for a paper. Name that file `<example>.bib` and save it inside the `_bibliography` folder.
 
 5. Once you are done and happy with your new problem pages, in the `problem` folder you will find a file `index.md`, please add your problem to the top of that list using the following format, making sure there is an empty line between your addition and the next item of that list.
