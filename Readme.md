@@ -7,7 +7,7 @@ Create a fork of GrpLib. Once you are done, submit it as a pull request to grpli
 ### New Problem
 1. Create a folder inside the problems folder. Use a simple name for it, see what has been used already. Let us call it `<example>` here 
 2. Inside `<example>` you will need an `index.md` file which needs to have the following structure. Replace **ALL** occurrences of `<example>`
-with your problem name. See the citation/biblography point below for information about how to cite and create a bibliography.
+with your problem name. See the citation/biblography point below for information about how to cite and create a bibliography. Examples are given in the template here.
 ```
 ---
 layout: default
@@ -62,7 +62,11 @@ Copy and paste the function into here too as the link above will just link to a 
 ```
 [<Example>](./<example>/)
 ```
-### Bibliography
+
+### Adding to an existing problem
+Please follow the directory structure as is provided and add code/text/references in the files and folders that are named after the problem, in our case this is `<example>`.
+
+## Bibliography
 The bibliography files are **all** kept in the `_bibliography` folder. All files are standard bibtex files.
 
 We are using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) to automate the citations.
@@ -70,9 +74,6 @@ We are using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) to aut
 When citing, use the following syntax `{%cite <CITE_ID> --file <example> %}` where `<CITE_ID>` is the label of the bibtex entry and `<example>` is the name of the problem/bibtex file.
 
 When creating the reference section, use the syntax `{% bibliography --file <example>.bib --cited %}`.
-
-## Adding to an existing problem
-Please follow the directory structure as is provided and add code/text/references in the files and folders that are named after the problem, in our case this is `<example>`.
 
 ## Maths
 Any maths that needs to be added to the Markdown files can be added in the standard LaTeX way using `$ $`. If it needs to be on a separate line use the Markdown to your advantage and set it on a new line by itself, with an empty line above and below it.
