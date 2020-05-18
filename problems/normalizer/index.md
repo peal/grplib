@@ -7,15 +7,16 @@ nav_exclude: true
 # {{page.title}}
 
 ## Problem Definition
-The normalizer of $S$ in the group G is defined as
+The normalizer of $S\subseteq G$ in the group G is defined as
 
 $\mathrm {N} _{G}(S)=\\{g\in G\mid gS=Sg\\}.$
 
-The GAP normalizer function is based on the algorithms as presented in {% cite MR2129747 --file normalizer%} and {% cite MR1970241 --file normalizer%}
-
+Textbook algorithms (and historic references go here) {% cite MR2129747 --file normalizer%} and {% cite MR1970241 --file normalizer%}
 ## Algorithms
+New papers and repositories go here.
 
-This is a place to cite papers and implementations of algorithms that tackle the problem. For example, {%cite siccha2020efficient --file normalizer %} and the [repository](https://github.com/ssiccha/NormalizersOfPrimitiveGroups).
+{%cite siccha2020efficient --file normalizer %} Towards Efficient Normalizers of Primitive Groups. 
+[repository](https://github.com/ssiccha/NormalizersOfPrimitiveGroups).
 
 ## Groups
 <!-- using .html at the moment as it works with the CS page -->
