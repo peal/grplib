@@ -20,13 +20,13 @@ New papers and repositories go here.
 
 ## Groups
 <!-- using .html at the moment as it works with the CS page -->
-[Finite Non-Abelian Simple Groups](./groups/SimpleFiniteNonAbelian.html)
+[Finite Non-Abelian Simple Groups]({{ site.baseurl }}/groups/SimpleFiniteNonAbelian.html)
 
-[Primitive Groups](./groups/Primitive.html)
+[Primitive Groups]({{ site.baseurl }}/groups/Primitive.html)
 
-[Primitive Affine Groups](./groups/PrimitiveAffine.html)
+[Primitive Affine Groups]({{ site.baseurl }}/groups/PrimitiveAffine.html)
 
-[Primitive of Type PA Groups](./groups/PrimitivePA.html)
+[Primitive of Type PA Groups]({{ site.baseurl }}/groups/PrimitivePA.html)
 
 ## References
 {% bibliography --file normalizer.bib --cited %}
