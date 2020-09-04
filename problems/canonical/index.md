@@ -15,7 +15,7 @@ Together these functions provide a way of checking if two items $s_1,s_2 \in S$ 
 
 While there are functions which check if $\exists g \in G. s_1^g = s_2$ directly, canonising functions are useful
 because given a large set $T \subseteq S$, we can use the canonical image of each element of $T$ to find equivalent
-subsets, while we would heave to perform $|T|^2$ pair-wise checks if we could only check if two elements were in the same orbit.
+subsets, while we would have to perform $|T|^2$ pair-wise checks if we could only check if two elements were in the same orbit.
 
 Canonical image algorithms are usually defined by $S$, the objects which they can find the canonical image for.
 
