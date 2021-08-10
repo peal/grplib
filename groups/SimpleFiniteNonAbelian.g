@@ -1,0 +1,1 @@
+grplist := AllSmallNonabelianSimpleGroups(UpToOrder);
